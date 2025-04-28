@@ -22,7 +22,7 @@ Each agent organizes its output neatly and (optionally) creates a Google Doc for
 
 ## 🛠 Tech Stack
 
-- [Python 3.9+](https://www.python.org/)
+- [Python 3.0+](https://www.python.org/)
 - [Streamlit](https://streamlit.io/)
 - [OpenAI API](https://platform.openai.com/)
 - [Agno SDK](https://pypi.org/project/agno-sdk/) (Agent building framework)
